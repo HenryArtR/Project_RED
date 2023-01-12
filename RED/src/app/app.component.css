@@ -1,0 +1,22 @@
+/** NAVBAR */
+
+.btn-menu{
+  border: none;
+  background-color: #00000000;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-between;
+}
+
+/** FORM */
+
+
+.inputClass{
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgba(128, 128, 128, 0.278);
+  width: 100%;
+}
